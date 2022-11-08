@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Desnoet (Adriaan)
+- 👀 I’m interested in 
+      - Industrial Automation and Robotics
+      - Embedded Software
+      - General Software Engineering
+- 🌱 I’m currently deepening my understanding of Software Engineering
